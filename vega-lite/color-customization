@@ -5,15 +5,15 @@
   "height": 300,
   "data": {
     "values": [
-      {"Component": "NRAS", "Expenditures": 9000},
-      {"Component": "Architecture", "Expenditures": 5500},
-      {"Component": "NTIMS", "Expenditures": 40000},
-      {"Component": "NRRM", "Expenditures": 100000},
-      {"Component": "Admin", "Expenditures": 81000},
-      {"Component": "NRREBI", "Expenditures": 22000},
-      {"Component": "GFM NOS", "Expenditures": 48000},
-      {"Component": "Finance", "Expenditures": 87000},
-      {"Component": "DRRS", "Expenditures": 197000}
+      {"Component": "Los Angeles", "Expenditures": 9000},
+      {"Component": "New York", "Expenditures": 5500},
+      {"Component": "Washington D.C.", "Expenditures": 40000},
+      {"Component": "Atlanta", "Expenditures": 100000},
+      {"Component": "Houston", "Expenditures": 81000},
+      {"Component": "Phoenix", "Expenditures": 22000},
+      {"Component": "Miami", "Expenditures": 48000},
+      {"Component": "Dallas", "Expenditures": 87000},
+      {"Component": "Virginia Beach", "Expenditures": 197000}
     ]
   },
   "mark": "bar",
