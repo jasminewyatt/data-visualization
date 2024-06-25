@@ -1,0 +1,21 @@
+This folder contains a collection of R scripts and related images used for data analysis and visualization. Each R file is designed to perform specific tasks, ranging from data preprocessing to advanced statistical analysis and graphical representation.
+
+Data Visualizations also have an accompanying png and/or pdf file for easy viewing. 
+
+Installation
+Ensure you have R installed on your system. You can download it from CRAN.
+
+# Install tidyverse
+install.packages("tidyverse")
+
+# Install modeldata
+install.packages("modeldata")
+
+Usage
+After installation, load these packages in your R scripts using library()
+
+# Load required packages
+library(tidyverse)
+library(modeldata)
+
+# Your R code goes here
